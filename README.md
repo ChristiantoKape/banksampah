@@ -1,2 +1,2 @@
 # BankSampah
-BSRB Mobile S
+BSRB Mobile Skripsi Aplikasi
